@@ -1,26 +1,19 @@
-
 body{
     background-color: #dc3545;
 }
-form{
-    
+form{ 
      margin: 0 auto;
      width:310px; 
      text-align: center;
 }
 h1{
-    
     text-align: center;
-    margin-left: 15px;
-    
-    
+    margin-left: 15px;    
 }
 input{
     margin:0 auto;
     width: 140px;
- 
     display: flex;
-
 }
 .file{
     width: 300px;
@@ -28,9 +21,6 @@ input{
     border-radius: 10px;
     text-align: center;
 }
-
-
-
 .login{
     color:green;
     margin-right: 140px;
